@@ -1,0 +1,21 @@
+﻿h1 {
+    color: green;
+}
+p {
+    font-size: 20px;
+}
+.highlight {
+    color: yellow;
+    font-weight: bold;
+}
+.quote {
+    font-style: italic;
+    text-decoration: underline;
+}
+ol {
+    text-align: right;
+}
+a {
+    color: red;
+    text-decoration: none;
+}
